@@ -6,8 +6,6 @@
 
 This project implements a functional lending protocol similar to Aave or Compound, featuring over-collateralized borrowing, dynamic interest rate models, and automated liquidation mechanisms. Built as a portfolio piece to demonstrate practical knowledge of DeFi architecture patterns and Solidity best practices.
 
-**⚠️ Disclaimer:** This is a demonstration project for learning purposes. It has not undergone professional security audits and should not be deployed to mainnet with real funds.
-
 ## Motivation
 
 After studying existing DeFi protocols, I wanted to understand the mechanics by building one from scratch. This project challenged me to think through:
